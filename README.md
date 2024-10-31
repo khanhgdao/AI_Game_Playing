@@ -1,2 +1,5 @@
-# AI_Game_Playing
-Implemented AI Agent to play in a two-player isolation game
+# AI Game Playing
+Implemented AI Agent to play in a two-player isolation game.
+Algorithms used: Iterative Alphabeta pruning.
+
+
